@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "strict": true,
+    "outDir": "dist",
+    "rootDir": "./",
+    "typeRoots": ["node_modules/@types"]
+  },
+  "include": ["src", "tests"]
+}

@@ -1,0 +1,6 @@
+{
+  "serverName": "paper_searcher",
+  "description": "An MCP server for querying papers using exact string search in text files and PDFs.",
+  "entryPoint": "src/index.ts",
+  "language": "typescript"
+}

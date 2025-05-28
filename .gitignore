@@ -1,0 +1,5 @@
+*/node_modules/
+/node_modules/
+# Ignore all node_modules directories
+/.cache/
+# Ignore all cache directories
